@@ -66,6 +66,9 @@ chain succeeds.
 - **release_agent escape**: resolves the host overlay path from `/etc/mtab` and
   triggers `release_agent` to run the payload on the host.
 
+| Tool Screenshot |
+|-------|
+| ![screenshot](https://github.com/user-attachments/assets/171e27f8-e67c-4331-a110-65a0d15fa348) |
 
 ---
 
