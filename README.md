@@ -69,6 +69,7 @@ chain succeeds.
 | Tool Screenshot |
 |-------|
 | ![screenshot](https://github.com/user-attachments/assets/171e27f8-e67c-4331-a110-65a0d15fa348) |
+| ![screenshot](https://github.com/user-attachments/assets/986ba748-3d39-45c3-b1e2-80f2bab61f8e) |
 
 ---
 
